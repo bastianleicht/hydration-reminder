@@ -1,0 +1,15 @@
+{
+  "name": "hydration-reminder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bastian Leicht",
+  "license": "SEE LICENSE IN FILE HEADER",
+  "dependencies": {
+    "node-notifier": "^9.0.1"
+  }
+}
